@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.fb6228ec.css",
+    "main.js": "/my-react-portfolio/static/js/main.ac5e4013.js",
+    "static/js/496.10f3b59f.chunk.js": "/my-react-portfolio/static/js/496.10f3b59f.chunk.js",
+    "static/media/3.jpg": "/my-react-portfolio/static/media/3.e57603ba508422828286.jpg",
+    "static/media/1.jpg": "/my-react-portfolio/static/media/1.5cea34bb387e9c5c1413.jpg",
+    "static/media/4.jpg": "/my-react-portfolio/static/media/4.e0561098a52a5588f7c8.jpg",
+    "static/media/2.jpg": "/my-react-portfolio/static/media/2.1265725e277b511e0355.jpg",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/media/iconmonstr-angel-left-thin.svg": "/my-react-portfolio/static/media/iconmonstr-angel-left-thin.b74b51c4c35fb292f28d63a42b7d73c9.svg",
+    "static/media/iconmonstr-angel-right-thin.svg": "/my-react-portfolio/static/media/iconmonstr-angel-right-thin.b282d2fca8839e80178c1a178ce23993.svg",
+    "main.fb6228ec.css.map": "/my-react-portfolio/static/css/main.fb6228ec.css.map",
+    "main.ac5e4013.js.map": "/my-react-portfolio/static/js/main.ac5e4013.js.map",
+    "496.10f3b59f.chunk.js.map": "/my-react-portfolio/static/js/496.10f3b59f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb6228ec.css",
+    "static/js/main.ac5e4013.js"
+  ]
+}
