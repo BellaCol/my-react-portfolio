@@ -18,6 +18,6 @@ function App() {
       </Router>
     </div>
   );
-  <Home/>
+  <Home />
 }
 export default App;
