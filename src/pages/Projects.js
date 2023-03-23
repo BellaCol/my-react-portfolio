@@ -2,13 +2,18 @@ import React from 'react';
 import Slideshow from '../components/Slideshow.js';
 import '../styles/Projects.css';
 import styled from 'styled-components';
+import Footer from '../components/Footer';
 
 function Projects (){
   return (
-    <main>
+   <>
+   <main>
       <Titulo>Projects</Titulo>
       <Slideshow/>
+      
     </main>
+    <Footer /> 
+   </> 
   );
 }
 

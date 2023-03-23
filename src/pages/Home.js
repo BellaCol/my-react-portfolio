@@ -3,7 +3,7 @@ import LindkedIcon from '@material-ui/icons/LinkedIn';
 import EmailIcon from '@material-ui/icons/Email';
 import GithubIcon from '@material-ui/icons/GitHub';
 import '../styles/Home.css';
-
+import Footer from '../components/Footer';
 
 function Home (){
   return (
@@ -12,7 +12,7 @@ function Home (){
         <h2> Hi, My Name is Bella</h2>
         <div className='prompt'> 
           <p>
-            An electrical enginieer whit a passion for develp, learning and creating.
+            Electrical engineer with a passion for software development, learning, and creating.
           </p>
           <LindkedIcon/>
           <EmailIcon/>
@@ -31,7 +31,7 @@ function Home (){
           <li className='item'>
             <h2> Back-End</h2>
             <span> 
-              NodeJs, MySQL 
+              Node.Js, MySQL 
             </span>
           </li>
           <li className='item'>
@@ -42,6 +42,7 @@ function Home (){
           </li>
         </ol>
       </div>
+      <Footer />
     </div>
  )
 };

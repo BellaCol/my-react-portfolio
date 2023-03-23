@@ -6,6 +6,7 @@ import {
 import 'react-vertical-timeline-component/style.min.css';
 import SchoolIcon from '@material-ui/icons/School'
 import WorkIcon from '@material-ui/icons/Work'
+import Footer from '../components/Footer';
 
 function Experience (){
   return (
@@ -67,6 +68,7 @@ function Experience (){
           <p>Commercial Engineer, </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
+      <Footer />
     </div>
   )
 };
